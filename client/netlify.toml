@@ -1,0 +1,4 @@
+[build]
+base = "sleepychat"
+publish = "sleepychat/client/"
+command = "npm run build"
